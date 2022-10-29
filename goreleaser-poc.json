@@ -1,0 +1,21 @@
+{
+    "version": "0.1.2",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/wahyudibo/goreleaser-poc/releases/download/v0.1.2/goreleaser-poc_v0.1.2_windows_i386.zip",
+            "bin": [
+                "goreleaser-poc.exe"
+            ],
+            "hash": "0ae422ccdfcb511ecac29765e83a9522e6b2422e3c3dd443933399f0117fb856"
+        },
+        "64bit": {
+            "url": "https://github.com/wahyudibo/goreleaser-poc/releases/download/v0.1.2/goreleaser-poc_v0.1.2_windows_x86_64.zip",
+            "bin": [
+                "goreleaser-poc.exe"
+            ],
+            "hash": "ce400160c9c47b941ccf3bc24599bc16250e9c784d8c26e88914f7e04fd98889"
+        }
+    },
+    "homepage": "https://github.com/wahyudibo/goreleaser-poc",
+    "license": "MIT"
+}
