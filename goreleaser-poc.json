@@ -6,14 +6,14 @@
             "bin": [
                 "goreleaser-poc.exe"
             ],
-            "hash": "bbf52b91ebdd3bc4c4d7f0d97d391ae1698a1ffd15940d317229382c36da95a1"
+            "hash": "e588f249c3a630902cf6fbbf727a876e713211f7b47fd93e6dc6e9b503f3e66a"
         },
         "64bit": {
             "url": "https://github.com/wahyudibo/goreleaser-poc/releases/download/v0.1.2/goreleaser-poc_v0.1.2_windows_x86_64.zip",
             "bin": [
                 "goreleaser-poc.exe"
             ],
-            "hash": "2fd2e8bd489679bf78d7c62f408382a16d14dd33c3381ed8955b339f77de45fe"
+            "hash": "f3c06a34f844a18b1a6fc3afd85efb689c8cf9b1ca7aec6d8382c05ffffbbd4c"
         }
     },
     "homepage": "https://github.com/wahyudibo/goreleaser-poc",
